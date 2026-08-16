@@ -391,3 +391,44 @@ urllib3.exceptions.HeaderParsingError: [MissingHeaderBodySeparatorDefect()], unp
 2026-08-15 21:23:28,044 [INFO] 수집된 GOV.UK AI 뉴스: 20
 2026-08-15 21:23:28,045 [INFO] 저장 완료: data/raw/govuk_news.jsonl
 2026-08-15 21:23:28,045 [INFO] 새로 추가된 뉴스: 0
+2026-08-16 21:20:08,096 [ERROR] Article content fetch failed: https://www.news1.kr/local/moi/6259436
+2026-08-16 21:20:08,096 [ERROR] 403 Client Error: Forbidden for url: https://www.news1.kr/local/moi/6259436
+2026-08-16 21:20:15,268 [ERROR] Article content fetch failed: https://www.aitimes.com/news/articleView.html?idxno=213994
+2026-08-16 21:20:15,268 [ERROR] 403 Client Error: Forbidden for url: https://www.aitimes.com/news/articleView.html?idxno=213994
+2026-08-16 21:20:16,360 [ERROR] Article content fetch failed: https://news.kbs.co.kr/news/pc/view/view.do?ncd=8638262
+2026-08-16 21:20:16,360 [ERROR] 404 Client Error: Not Found for url: https://news.kbs.co.kr/news/pc/view/view.do?ncd=8638262
+2026-08-16 21:20:37,388 [ERROR] Article content fetch failed: https://www.aitimes.com/news/articleView.html?idxno=214013
+2026-08-16 21:20:37,389 [ERROR] 403 Client Error: Forbidden for url: https://www.aitimes.com/news/articleView.html?idxno=214013
+2026-08-16 21:20:37,890 [INFO] 수집된 Google News: 20
+2026-08-16 21:20:37,896 [INFO] 저장 완료: data/raw/google_news.jsonl
+2026-08-16 21:20:37,896 [INFO] 새로 추가된 뉴스: 19
+2026-08-16 21:20:40,113 [INFO] 검색어 'AI' 응답 코드: 200
+2026-08-16 21:20:41,083 [INFO] 검색어 '인공지능' 응답 코드: 200
+2026-08-16 21:20:41,990 [INFO] 검색어 '생성형 AI' 응답 코드: 200
+2026-08-16 21:20:42,917 [INFO] 검색어 'LLM' 응답 코드: 200
+2026-08-16 21:20:43,873 [INFO] 검색어 'AI 반도체' 응답 코드: 200
+2026-08-16 21:20:45,156 [ERROR] Article content fetch failed: https://www.lecturernews.com/news/articleView.html?idxno=208674
+2026-08-16 21:20:45,157 [ERROR] 403 Client Error: Forbidden for url: https://www.lecturernews.com/news/articleView.html?idxno=208674
+2026-08-16 21:20:53,276 [ERROR] Article content fetch failed: https://www.tournews21.com/news/articleView.html?idxno=141154
+2026-08-16 21:20:53,276 [ERROR] 403 Client Error: Forbidden for url: https://www.tournews21.com/news/articleView.html?idxno=141154
+2026-08-16 21:20:58,844 [ERROR] Article content fetch failed: http://www.newsmp.com/news/articleView.html?idxno=257543
+2026-08-16 21:20:58,844 [ERROR] 403 Client Error: Forbidden for url: http://www.newsmp.com/news/articleView.html?idxno=257543
+2026-08-16 21:21:00,405 [ERROR] Article content fetch failed: https://weekly.khan.co.kr/article/202608170600101
+2026-08-16 21:21:00,405 [ERROR] 403 Client Error: Forbidden for url: https://weekly.khan.co.kr/article/202608170600101
+2026-08-16 21:21:03,092 [ERROR] Article content fetch failed: https://www.businesspost.co.kr/BP?command=article_view&num=444846
+2026-08-16 21:21:03,093 [ERROR] 403 Client Error: Forbidden for url: https://www.businesspost.co.kr/BP?command=article_view&num=444846
+2026-08-16 21:21:05,920 [ERROR] Article content fetch failed: https://www.businesspost.co.kr/BP?command=article_view&num=444695
+2026-08-16 21:21:05,920 [ERROR] 403 Client Error: Forbidden for url: https://www.businesspost.co.kr/BP?command=article_view&num=444695
+2026-08-16 21:21:07,444 [ERROR] Article content fetch failed: https://economist.co.kr/article/view/ecn202608100009
+2026-08-16 21:21:07,444 [ERROR] 502 Server Error: Bad Gateway for url: https://economist.co.kr/article/view/ecn202608100009
+2026-08-16 21:21:08,773 [ERROR] Article content fetch failed: http://weekly.chosun.com/news/articleView.html?idxno=54330
+2026-08-16 21:21:08,773 [ERROR] 403 Client Error: Forbidden for url: http://weekly.chosun.com/news/articleView.html?idxno=54330
+2026-08-16 21:21:13,867 [ERROR] Article content fetch failed: https://www.mk.co.kr/article/12129178
+2026-08-16 21:21:13,867 [ERROR] 403 Client Error: Forbidden for url: https://www.mk.co.kr/article/12129178
+2026-08-16 21:21:14,369 [INFO] 중복 제거 후 수집된 NAVER 뉴스: 20
+2026-08-16 21:21:14,376 [INFO] 저장 완료: data/raw/naver_news.jsonl
+2026-08-16 21:21:14,376 [INFO] 새로 추가된 뉴스: 20
+2026-08-16 21:21:16,497 [INFO] GOV.UK 응답 코드: 200
+2026-08-16 21:21:47,043 [INFO] 수집된 GOV.UK AI 뉴스: 20
+2026-08-16 21:21:47,045 [INFO] 저장 완료: data/raw/govuk_news.jsonl
+2026-08-16 21:21:47,045 [INFO] 새로 추가된 뉴스: 0
