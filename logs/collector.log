@@ -447,3 +447,26 @@ urllib3.exceptions.HeaderParsingError: [MissingHeaderBodySeparatorDefect()], unp
 2026-08-17 21:28:21,216 [INFO] 수집된 GOV.UK AI 뉴스: 20
 2026-08-17 21:28:21,217 [INFO] 저장 완료: data/raw/govuk_news.jsonl
 2026-08-17 21:28:21,217 [INFO] 새로 추가된 뉴스: 0
+2026-08-18 21:25:15,470 [ERROR] Article content fetch failed: https://www.news1.kr/world/international-economy/6262455
+2026-08-18 21:25:15,470 [ERROR] 403 Client Error: Forbidden for url: https://www.news1.kr/world/international-economy/6262455
+2026-08-18 21:25:15,971 [INFO] 수집된 Google News: 20
+2026-08-18 21:25:15,978 [INFO] 저장 완료: data/raw/google_news.jsonl
+2026-08-18 21:25:15,978 [INFO] 새로 추가된 뉴스: 20
+2026-08-18 21:25:18,779 [INFO] 검색어 'AI' 응답 코드: 200
+2026-08-18 21:25:19,758 [INFO] 검색어 '인공지능' 응답 코드: 200
+2026-08-18 21:25:20,646 [INFO] 검색어 '생성형 AI' 응답 코드: 200
+2026-08-18 21:25:21,573 [INFO] 검색어 'LLM' 응답 코드: 200
+2026-08-18 21:25:22,514 [INFO] 검색어 'AI 반도체' 응답 코드: 200
+2026-08-18 21:25:24,049 [ERROR] Article content fetch failed: https://www.bntnews.co.kr/article/view/bnt202608190005
+2026-08-18 21:25:24,049 [ERROR] 404 Client Error: Not Found for url: https://www.bntnews.co.kr/article/view/bnt202608190005
+2026-08-18 21:25:31,513 [ERROR] Article content fetch failed: http://coinreaders.com/253408
+2026-08-18 21:25:31,513 [ERROR] 403 Client Error: Forbidden for url: http://coinreaders.com/253408
+2026-08-18 21:25:33,045 [ERROR] Article content fetch failed: https://www.kukinews.com/article/view/kuk202608190007
+2026-08-18 21:25:33,045 [ERROR] 403 Client Error: Forbidden for url: https://www.kukinews.com/article/view/kuk202608190007
+2026-08-18 21:26:08,220 [INFO] 중복 제거 후 수집된 NAVER 뉴스: 20
+2026-08-18 21:26:08,227 [INFO] 저장 완료: data/raw/naver_news.jsonl
+2026-08-18 21:26:08,228 [INFO] 새로 추가된 뉴스: 20
+2026-08-18 21:26:09,805 [INFO] GOV.UK 응답 코드: 200
+2026-08-18 21:26:36,415 [INFO] 수집된 GOV.UK AI 뉴스: 20
+2026-08-18 21:26:36,417 [INFO] 저장 완료: data/raw/govuk_news.jsonl
+2026-08-18 21:26:36,417 [INFO] 새로 추가된 뉴스: 1
