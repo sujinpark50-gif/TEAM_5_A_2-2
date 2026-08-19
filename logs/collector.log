@@ -470,3 +470,26 @@ urllib3.exceptions.HeaderParsingError: [MissingHeaderBodySeparatorDefect()], unp
 2026-08-18 21:26:36,415 [INFO] 수집된 GOV.UK AI 뉴스: 20
 2026-08-18 21:26:36,417 [INFO] 저장 완료: data/raw/govuk_news.jsonl
 2026-08-18 21:26:36,417 [INFO] 새로 추가된 뉴스: 1
+2026-08-19 21:26:00,907 [INFO] 수집된 Google News: 20
+2026-08-19 21:26:00,914 [INFO] 저장 완료: data/raw/google_news.jsonl
+2026-08-19 21:26:00,915 [INFO] 새로 추가된 뉴스: 20
+2026-08-19 21:26:03,756 [INFO] 검색어 'AI' 응답 코드: 200
+2026-08-19 21:26:04,694 [INFO] 검색어 '인공지능' 응답 코드: 200
+2026-08-19 21:26:05,619 [INFO] 검색어 '생성형 AI' 응답 코드: 200
+2026-08-19 21:26:06,538 [INFO] 검색어 'LLM' 응답 코드: 200
+2026-08-19 21:26:07,477 [INFO] 검색어 'AI 반도체' 응답 코드: 200
+2026-08-19 21:26:10,949 [ERROR] Article content fetch failed: https://www.dailycar.co.kr/content/news.html?type=view&autoId=62300
+2026-08-19 21:26:10,949 [ERROR] 403 Client Error: Forbidden for url: https://www.dailycar.co.kr/content/news.html?type=view&autoId=62300
+2026-08-19 21:26:12,495 [ERROR] Article content fetch failed: https://www.dailycar.co.kr/content/news.html?type=view&autoId=62282
+2026-08-19 21:26:12,495 [ERROR] 403 Client Error: Forbidden for url: https://www.dailycar.co.kr/content/news.html?type=view&autoId=62282
+2026-08-19 21:26:16,445 [ERROR] Article content fetch failed: https://www.dailycar.co.kr/content/news.html?type=view&autoId=62279
+2026-08-19 21:26:16,445 [ERROR] 403 Client Error: Forbidden for url: https://www.dailycar.co.kr/content/news.html?type=view&autoId=62279
+2026-08-19 21:26:22,043 [ERROR] Article content fetch failed: https://www.dailycar.co.kr/content/news.html?type=view&autoId=62299
+2026-08-19 21:26:22,043 [ERROR] 403 Client Error: Forbidden for url: https://www.dailycar.co.kr/content/news.html?type=view&autoId=62299
+2026-08-19 21:26:46,801 [INFO] 중복 제거 후 수집된 NAVER 뉴스: 18
+2026-08-19 21:26:46,809 [INFO] 저장 완료: data/raw/naver_news.jsonl
+2026-08-19 21:26:46,809 [INFO] 새로 추가된 뉴스: 18
+2026-08-19 21:26:48,114 [INFO] GOV.UK 응답 코드: 200
+2026-08-19 21:27:09,849 [INFO] 수집된 GOV.UK AI 뉴스: 20
+2026-08-19 21:27:09,850 [INFO] 저장 완료: data/raw/govuk_news.jsonl
+2026-08-19 21:27:09,850 [INFO] 새로 추가된 뉴스: 0
